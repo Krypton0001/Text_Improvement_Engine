@@ -33,7 +33,7 @@ pip install PyQt5 spacy scikit-learn
 2. Run the application:
 
 ```bash
-python text_improvement_app.py
+python app.py
 ```
 
 3. In the GUI, enter or paste the text you want to analyze.
@@ -79,9 +79,6 @@ Contributions are welcome. If you'd like to contribute, please follow these step
 2. Create a new branch for your feature or bug fix.
 3. Make your changes.
 4. Create a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - The project was inspired by the need to improve the clarity and consistency of written text.
